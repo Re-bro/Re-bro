@@ -5,8 +5,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjh6792)](https://solved.ac/pjh6792) &nbsp;&nbsp; [![CodeForces Profile](http://cf.leed.at?id=Rebro)](https://codeforces.com/profile/Rebro)
 
-
-
 <br></br>
 
 ### [Github]
