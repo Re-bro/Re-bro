@@ -46,6 +46,7 @@
 - Google Code Jam 2021 2Round 진출 (2Round : 1988*th*, KR 99*th*)
 - Google Kickstart 2021 Round A 843*rd*, KR 37*th*
 - Google Kickstart 2021 Round C 672*nd*, KR 25*th*
+- Google Kickstart 2021 Round D 213*rd*, KR 11*th*
 
 <!--
 **Re-bro/Re-bro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
