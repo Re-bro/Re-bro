@@ -37,8 +37,8 @@
 - (2019. 03. ~ 2019. 12.) &nbsp;멋쟁이사자처럼 at 서강대학교 7기
 - (2020. 07. ~) &nbsp;컴퓨터공학과 알고리즘 학회 'Sogang ICPC Team' 회원
 - (2020. 07. ~) &nbsp;신촌지역 대학생 프로그래밍 대회 동아리 연합 'ICPC Sinchon' 회원
-- (2021. 01. ~ 2021. 02.) &nbsp; ICPC Sinchon Camp 2021 Winter 초/중급반 멘토 
-- (2021. 07. ~ 2021. 08.) &nbsp; ICPC Sinchon Camp 2021 Summer 초급반 강사
+- (2021. 01. ~ 2021. 02.) &nbsp; ICPC Sinchon Algorithm Camp 2021 Winter 초/중급반 멘토 
+- (2021. 07. ~ 2021. 08.) &nbsp; ICPC Sinchon Algorithm Camp 2021 Summer 초급반 강사
 
 &nbsp;
 
