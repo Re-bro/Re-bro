@@ -27,9 +27,9 @@
 ## Awards
 - (2019. 12.) &nbsp;2019 서강이 만들어가는 세상 공모전 (2위)  
   * 저상버스 운행 정보 모바일 웹 'Ebu' - 모두(Every)를 위한 버스(bus)
-- (2020. 08.) &nbsp;SUAPC 2020 Summer (동상, 5위)
-- (2021. 02.) &nbsp;2021 ICPC Sinchon Winter Camp Contest 중급 (은상, 2위)
-- (2021. 02.) &nbsp;SUAPC 2021 Winter (은상, 3위)
+- (2020. 08.) &nbsp;2020 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (**SUAPC 2020 Summer**) (동상, 5위)
+- (2021. 02.) &nbsp;2021 ICPC 신촌연합 알고리즘 겨울 캠프 대회 (**2021 ICPC Sinchon Winter Camp Contest**) 중급 (은상, 2위)
+- (2021. 02.) &nbsp;2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (**SUAPC 2021 Winter**) (은상, 3위)
 
 &nbsp;
 
@@ -39,6 +39,7 @@
 - (2020. 07. ~) &nbsp;신촌지역 대학생 프로그래밍 대회 동아리 연합 'ICPC Sinchon' 회원
 - (2021. 01. ~ 2021. 02.) &nbsp; ICPC Sinchon Algorithm Camp 2021 Winter 초/중급반 멘토 
 - (2021. 07. ~ 2021. 08.) &nbsp; ICPC Sinchon Algorithm Camp 2021 Summer 초급반 강사
+- (2021. 08) &nbsp; 2021 중앙대학교 신입생 프로그래밍 대회 (2021 NPC) 검수진
 
 &nbsp;
 
@@ -47,6 +48,7 @@
 - Google Kickstart 2021 Round A 843*rd*, KR 37*th*
 - Google Kickstart 2021 Round C 672*nd*, KR 25*th*
 - Google Kickstart 2021 Round D 213*rd*, KR 11*th*
+- Samsung Collegiate Programming Cup 2021 (SCPC 2021) Round 2 진출
 
 <!--
 **Re-bro/Re-bro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
