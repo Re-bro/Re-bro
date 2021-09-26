@@ -5,6 +5,10 @@
 > __Using C/C++__  
 > *BOJ / Codeforces / Atcoder / Codejam / Kickstart / etc*
 
+#### BOJ Handle : [pjh6792](https://www.acmicpc.net/user/pjh6792) 
+#### Codeforces Handle : [Rebro](https://codeforces.com/profile/rebro)  
+#### Atcoder Handle : [Rebro](https://atcoder.jp/users/Rebro)
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjh6792)](https://solved.ac/pjh6792) &nbsp;&nbsp; [![CodeForces Profile](http://cf.leed.at?id=Rebro)](https://codeforces.com/profile/Rebro)
 
@@ -27,10 +31,10 @@
 ## Awards
 - (2019. 12.) &nbsp;2019 서강이 만들어가는 세상 공모전 (2위)  
   * 저상버스 운행 정보 모바일 웹 'Ebu' - 모두(Every)를 위한 버스(bus)
-- (2020. 08.) &nbsp;2020 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (**SUAPC 2020 Summer**) (동상, 5위)
-- (2021. 02.) &nbsp;2021 ICPC 신촌연합 알고리즘 겨울 중급반 캠프 대회 (**2021 ICPC Sinchon Winter Camp Contest**) (은상, 2위)
-- (2021. 02.) &nbsp;2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (**SUAPC 2021 Winter**) (은상, 3위)
-- (2021. 08.) &nbsp;2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (**SUAPC 2021 Summer**) (현대오토Forever상, 2위)
+- (2020. 08.) &nbsp;2020 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (**SUAPC 2020 Summer**) (동상, [5위](https://www.acmicpc.net/contest/scoreboard/519))
+- (2021. 02.) &nbsp;2021 ICPC 신촌연합 알고리즘 겨울 중급반 캠프 대회 (**2021 ICPC Sinchon Winter Camp Contest**) (은상, [2위](https://www.acmicpc.net/contest/scoreboard/589))
+- (2021. 02.) &nbsp;2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (**SUAPC 2021 Winter**) (은상, [3위](https://www.acmicpc.net/contest/scoreboard/586))
+- (2021. 08.) &nbsp;2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (**SUAPC 2021 Summer**) (현대오토Forever상, [2위](https://www.acmicpc.net/contest/scoreboard/678))
 
 &nbsp;
 
