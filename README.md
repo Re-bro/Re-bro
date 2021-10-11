@@ -1,5 +1,7 @@
 # Jaehyeong Park (Rebro) 👋
 
+- my blog : https://rebro.kr/
+
 &nbsp;
 ## Problem Solving
 > __Using C/C++__  
