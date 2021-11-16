@@ -1,6 +1,6 @@
 # Jaehyeong Park (Rebro) 👋
 
-- my blog : https://rebro.kr/
+### ✨ My Blog :  https://rebro.kr  
 
 &nbsp;
 ## Problem Solving
