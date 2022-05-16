@@ -54,7 +54,7 @@
 - (2021. 07. ~ 2021. 08.) &nbsp; ICPC Sinchon Algorithm Camp 2021 Summer 초급반 강사
 - (2021. 08.) &nbsp; [2021 중앙대학교 신입생 프로그래밍 대회](https://www.acmicpc.net/category/detail/2746) (2021 NPC) 검수진
 - (2021. 08.) &nbsp; [2021 제3회 가톨릭대학교 프로그래밍 경진대회](https://www.acmicpc.net/category/detail/2758) (2021 CCPC) 검수진
-- (2022. 04. ~ 2022. 05.) &nbsp; 2022 서강대학교 청정수컵 출제진
+- (2022. 04. ~ 2022. 05.) &nbsp; [2022 서강대학교 청정수컵](https://www.acmicpc.net/category/detail/3122) 출제진
 
 &nbsp;
 
