@@ -65,6 +65,7 @@
 - Google Kickstart 2021 Round D 213*rd*, KR 11*th*
 - Samsung Collegiate Programming Cup 2021 (SCPC 2021) Round 2 진출
 - Google Code Jam 2022 1Round B 187*th*, KR 6*th* 
+- Google Code Jam 2022 2Round 진출 (2Round : 1661*st*, KR 109*th*)
 <!--
 **Re-bro/Re-bro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
