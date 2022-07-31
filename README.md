@@ -30,9 +30,9 @@
 &nbsp;
 
 ## Career 💻
-- (2022. 01. ~ 2022. 02) &nbsp; 2021 카카오 추천팀(개발) 겨울 인턴십
+- (2022. 01. ~ 2022. 02.) &nbsp; 2021 카카오 추천팀(개발) 겨울 인턴십
 - (2022. 04. ~ ) &nbsp; 퓨쳐테크아카데미 SW교육 컨텐츠 연구원
-- (2022. 06. ~ ) &nbsp; 구글 머신러닝 부트캠프 3기
+- (2022. 06.) &nbsp; 구글 머신러닝 부트캠프 3기
 - (2022. 07. ~ ) &nbsp; 2022 SUMMER LINE 인턴십 (LINE Ads ML Engineer)
 
 &nbsp;
@@ -68,6 +68,8 @@
 - Samsung Collegiate Programming Cup 2021 (SCPC 2021) Round 2 진출
 - Google Code Jam 2022 1Round B 187*th*, KR 6*th* 
 - Google Code Jam 2022 2Round 진출 (2Round : 1661*st*, KR 109*th*)
+- 2022 전국 대학생 프로그래밍 대회 동아리 연합 대회 (UCPC 2022) 본선 진출
+- Samsung Collegiate Programming Cup 2022 (SCPC 2022) Round 2 진출
 <!--
 **Re-bro/Re-bro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
