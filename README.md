@@ -24,16 +24,16 @@
 
 &nbsp;
 ## School
-- (2016. 03.) &nbsp;서강대학교 수학과 입학
-- (2017. 11.) &nbsp;서강대학교 컴퓨터공학 복수전공 
+- (2016. 03.) &nbsp; 서강대학교 수학과 입학
+- (2017. 11.) &nbsp; 서강대학교 컴퓨터공학 복수전공 
 
 &nbsp;
 
 ## Career 💻
 - (2022. 01. ~ 2022. 02.) &nbsp; 2021 카카오 추천팀(개발) 겨울 인턴십
 - (2022. 04. ~ ) &nbsp; 퓨쳐테크아카데미 SW교육 컨텐츠 연구원
-- (2022. 06.) &nbsp; 구글 머신러닝 부트캠프 3기 (중도 포기)
 - (2022. 07. ~ 2022. 08.) &nbsp; 2022 SUMMER LINE 인턴십 (LINE+ Ads ML Engineer)
+- (2023. 01. ~ ) &nbsp; LINE PLUS Ads ML Engineer (입사 예정) 
 
 &nbsp;
 
@@ -45,6 +45,7 @@
 - (2021. 02.) &nbsp;2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (**SUAPC 2021 Winter**) (은상🥈, [3위](https://www.acmicpc.net/contest/scoreboard/586))
 - (2021. 08.) &nbsp;2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (**SUAPC 2021 Summer**) (현대오토Forever상🥈, [2위](https://www.acmicpc.net/contest/scoreboard/678))
 - (2022. 02.) &nbsp;2022 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (**SUAPC 2022 Winter**) (현대오토에버상🥇, [1위](https://www.acmicpc.net/contest/spotboard/764))
+- (2022. 09.) &nbsp;2022 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (**SUAPC 2022 Summer**) (카카오 Tech상🥇, 1위)
 
 &nbsp;
 
