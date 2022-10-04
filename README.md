@@ -45,7 +45,7 @@
 - (2021. 02.) &nbsp;2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (**SUAPC 2021 Winter**) (은상🥈, [3위](https://www.acmicpc.net/contest/scoreboard/586))
 - (2021. 08.) &nbsp;2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (**SUAPC 2021 Summer**) (현대오토Forever상🥈, [2위](https://www.acmicpc.net/contest/scoreboard/678))
 - (2022. 02.) &nbsp;2022 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (**SUAPC 2022 Winter**) (현대오토에버상🥇, [1위](https://www.acmicpc.net/contest/spotboard/764))
-- (2022. 09.) &nbsp;2022 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (**SUAPC 2022 Summer**) (카카오 Tech상🥇, 1위)
+- (2022. 09.) &nbsp;2022 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (**SUAPC 2022 Summer**) (카카오 Tech상🥇, [1위](https://www.acmicpc.net/contest/spotboard/840))
 
 &nbsp;
 
