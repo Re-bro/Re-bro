@@ -71,6 +71,7 @@
 - Google Code Jam 2022 2Round 진출 (2Round : 1661*st*, KR 109*th*)
 - 2022 전국 대학생 프로그래밍 대회 동아리 연합 대회 (UCPC 2022) 본선 진출
 - Samsung Collegiate Programming Cup 2022 (SCPC 2022) Round 2 진출
+- 2022 ICPC Asia Seoul Preliminary Contest 34*th* (Team Last Coin)
 <!--
 **Re-bro/Re-bro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
