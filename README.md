@@ -33,7 +33,7 @@
 - (2022. 01. ~ 2022. 02.) &nbsp; 2021 카카오 추천팀(개발) 겨울 인턴십
 - (2022. 04. ~ ) &nbsp; 퓨쳐테크아카데미 SW교육 컨텐츠 연구원
 - (2022. 07. ~ 2022. 08.) &nbsp; 2022 SUMMER LINE 인턴십 (LINE+ Ads ML Engineer)
-- (2023. 01. ~ ) &nbsp; LINE PLUS Ads ML Engineer (입사 예정) 
+- (2023. 01. ~ ) &nbsp; LINE+ Ads ML Engineer 
 
 &nbsp;
 
